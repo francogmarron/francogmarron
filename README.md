@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-<div  id="header" align="center"  >
-  <img src=/portada.jpg width= "950"  />
+<div  id="header">
+  <img src=/portada.jpg width= "900"  />
+  <div id="myProfile" align="center">
+      <h1> Hola, soy Franco G. Marron </h1>
+      <h2> Analista Programador graduado de la Facultad de Ingenieria   Universidad de La Pampa </h2>
+      <img src=/foto.jpg align="rigth" width= "150">
+  </div>
+  <h4> Actualmente desempeño un rol de web hosting en la facultad de humanas UNLPam </h4>
+  <h4></h4>
+  <h4> Continuo mi formacion aprendiendo con cursos de  Java/Springboot y Laravel/PHP </h4>
+  <>
 </div>
 <!--
 **francogmarron/francogmarron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
