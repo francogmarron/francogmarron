@@ -5,16 +5,13 @@
   <div id="myProfile" align="center">
       <h1> Hola, soy Franco G. Marron </h1>
       <h2> Analista Programador graduado de la Facultad de Ingenieria   Universidad de La Pampa </h2>
-      <img src=/foto.jpg width= "150">
+      <img src=/foto.jpg width= "150"/>
   </div>
   <div id="aboutMy">
     <h4> Actualmente desempeño un rol de web hosting en la facultad de humanas UNLPam </h4>
     <h4> Soy colaborativo e imperturbable  </h4>
-     <iframe src="https://giphy.com/embed/l0K4hO8mVvq8Oygjm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>  
-     </iframe>  
-        <p>
-          <a href="https://giphy.com/gifs/topshelfrecords-clique-top-shelf-records-l0K4hO8mVvq8Oygjm">via GIPHY</a>
-        </p>
+     <img src="https://giphy.com/embed/l0K4hO8mVvq8Oygjm" width="480" height="270" />  
+       
     <h4> Continuo mi formacion aprendiendo con cursos de  Java/Springboot y Laravel/PHP </h4>
   </div>
 </div>
