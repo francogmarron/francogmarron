@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div id="header" align="center"  height: 150px;
-  width: 200px;>
+<link rel="stylesheet" type="text/css" href="/style.css">
+<div id="portada" id="header" align="center" >
   <img src=/image/portada.jpg>
 </div>
 <!--
