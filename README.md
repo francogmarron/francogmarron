@@ -8,11 +8,14 @@
       <img src=/foto.jpg width= "150"/>
   </div>
   <div id="aboutMy">
-    <h4> Actualmente desempeño un rol de web hosting en la facultad de humanas UNLPam </h4>
-    <h4> Soy colaborativo e imperturbable  </h4>
-     <img src="https://giphy.com/embed/l0K4hO8mVvq8Oygjm" width="480" height="270" />  
-       
-    <h4> Continuo mi formacion aprendiendo con cursos de  Java/Springboot y Laravel/PHP </h4>
+    <div align= "left">
+      <h4> Actualmente desempeño un rol de web hosting en la facultad de humanas UNLPam </h4>
+      <h4> Soy colaborativo e imperturbable  </h4>
+      <h4> Continuo mi formacion aprendiendo con cursos de  Java/Springboot y Laravel/PHP </h4>
+    </div>
+    <div align="rigth">
+       <img src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/giphy.gif" width="100"/>
+    </div>
   </div>
 </div>
 <!--
