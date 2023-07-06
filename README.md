@@ -1,5 +1,5 @@
 ### Hi there 👋
-<link rel="stylesheet" type="text/css" href="/style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <div id="portada" id="header" align="center" >
   <img src=/image/portada.jpg>
 </div>
