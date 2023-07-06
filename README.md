@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src=https://1drv.ms/i/s!AsAdj6aFJYgxtC225fR1GTtzyWsq?e=tjhPWP/>
+  <img src=/>
 </div>
 <!--
 **francogmarron/francogmarron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
