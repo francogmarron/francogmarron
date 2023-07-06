@@ -8,14 +8,14 @@
       <img src=/foto.jpg width= "150"/>
   </div>
   <div id="aboutMy">
-    <div align="left">
+    <div align="rigt">
       <h4> Actualmente desempeño un rol de web hosting en la facultad de humanas UNLPam </h4>
       <h4> Soy colaborativo e imperturbable  </h4>
       <h4> Continuo mi formacion aprendiendo con cursos: </h4>
       <h4>     Java/Springboot</h4>
       <h4>      Laravel/PHP </h4>
     </div>
-    <div align="rigth">
+    <div align="left">
        <img src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/giphy.gif" width="100"/>
     </div>
   </div>
