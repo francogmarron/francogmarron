@@ -1,4 +1,5 @@
-div#portada {
+#portada {
     height: 150px;
     width: 200px;
+    Display: none;
 }
