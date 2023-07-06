@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<div id="header" align="center">
+<div id="header" align="center"  height: 150px;
+  width: 200px;>
   <img src=/image/portada.jpg>
 </div>
 <!--
