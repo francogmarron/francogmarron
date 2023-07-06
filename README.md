@@ -15,10 +15,6 @@
       <h4>     Java/Springboot</h4>
       <h4>      Laravel/PHP </h4>
     </div>
-    <div align="left">
-      <h2> Mis redes </h2>
-      <a href=https://www.linkedin.com/in/franco-guillermo-marr%C3%B3n-61473823b/><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-    </div>
   </div>
 </div>
 <!--
